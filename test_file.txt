@@ -1,5 +1,5 @@
-changes on the master branch to test merging 
-
 This is the first line of the file
 
 This is the second line of the file and now I have added more text too on another branch 
+
+edits for the second branch test
